@@ -3,3 +3,5 @@ init
 
 
 master
+
+sg master
