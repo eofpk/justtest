@@ -4,4 +4,8 @@ init
 
 master
 
+
 sg sg
+
+sg master
+
